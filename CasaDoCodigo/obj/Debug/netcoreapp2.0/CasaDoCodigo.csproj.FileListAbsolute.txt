@@ -9,3 +9,14 @@
 /home/alan/Documentos/Alura/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.dll
 /home/alan/Documentos/Alura/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.pdb
 /home/alan/Documentos/Alura/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.csprojResolveAssemblyReference.cache
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.deps.json
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.runtimeconfig.json
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.runtimeconfig.dev.json
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.dll
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/bin/Debug/netcoreapp2.0/CasaDoCodigo.pdb
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.csprojResolveAssemblyReference.cache
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.AssemblyInfoInputs.cache
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.AssemblyInfo.cs
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.dll
+/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/obj/Debug/netcoreapp2.0/CasaDoCodigo.pdb

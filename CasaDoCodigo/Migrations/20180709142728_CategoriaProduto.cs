@@ -14,7 +14,7 @@ namespace CasaDoCodigo.Migrations
                 table: "Produto",
                 nullable: false,
                 defaultValue: 0);
-
+                 
             migrationBuilder.CreateIndex(
                 name: "IX_Produto_CategoriaId",
                 table: "Produto",
@@ -28,7 +28,7 @@ namespace CasaDoCodigo.Migrations
                 principalColumn: "Id",
                 onDelete: ReferentialAction.Cascade);
             */
-
+            // Foi necessário criar a coluna já com a foreign key, o SQLite não tem suporte a adição posterior de constraints
             migrationBuilder.Sql("ALTER TABLE Produto ADD COLUMN CategoriaId integer REFERENCES Categoria(Id)");
             
         }

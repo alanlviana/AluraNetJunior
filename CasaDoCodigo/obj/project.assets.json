@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alan/Documentos/Alura/AluraNetJunior/CasaDoCodigo/CasaDoCodigo.csproj",
+      "projectUniqueName": "/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/CasaDoCodigo.csproj",
       "projectName": "CasaDoCodigo",
-      "projectPath": "/home/alan/Documentos/Alura/AluraNetJunior/CasaDoCodigo/CasaDoCodigo.csproj",
+      "projectPath": "/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/CasaDoCodigo.csproj",
       "packagesPath": "/home/alan/.nuget/packages/",
-      "outputPath": "/home/alan/Documentos/Alura/AluraNetJunior/CasaDoCodigo/obj/",
+      "outputPath": "/home/alan/Documentos/FormacaoDotNet/AluraNetJunior/CasaDoCodigo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
